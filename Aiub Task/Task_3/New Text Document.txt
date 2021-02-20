@@ -1,0 +1,2 @@
+Submit a a version of Task-2 that will have Area and ShowDetails Mehtod of Shape class as Abstract.
+and Create a Interface for Inventory class.
